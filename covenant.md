@@ -14,6 +14,7 @@ and actions will be taken as necessary.
   * If this is done by a larger percentage of users on an instance and/or affects considerable amounts of local users, depending on the reasons for this occurring (ranging from lack of moderation to malicious intent by administrators), actions taken will range from **silencing** to **suspension**.
 * If another instance is posting content illegal in the local instance operation region, actively posts content
   attacking local users, has rules incompatible (or: not remediable by marking all incoming media as sensitive) with our instance or runs a bot that tracks user blocks, a full **instance suspension** will be done.
+* If another instance is intentionally acting in a harmful way to the Fediverse and ActivityPub specification (such as not honoring deleted posts, spamming, mass mentioning and altering posts in bad faith), a full **instance suspension** will be done to protect the integrity of the network as a whole.
   
 #### 3. Communication before Actions
 If any of the above behaviours start to surface from a given instance without (many) prior incidents, the moderation of the local instance will attempt
