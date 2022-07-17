@@ -1,6 +1,6 @@
 # The User-Friendly Moderation Covenant
 
-The Fediverse is rapidly growing and changing. Current-day Fediverse software offers several moderation tools, improving the lack thereof from platforms used prior to it (for example, most centralized social media). A too trigger-happy use of such tools can impact the natural growth and communication of the network. That is mainly a technical challenge. However, if the tools aren't used, they lead to issues other platforms have, which is mainly unhappy users. A balance between quick detection and shunning of abusive individuals and groups must be found, while not excluding anyone without good reason. That is mainly a social challenge.
+The Fediverse is rapidly growing and changing. Current-day Fediverse software offers several advanced moderation tools not present on most centralized social media. Overuse of these tools can impact the natural growth and communication of the network. However, if the tools aren't used, they lead to issues other platforms have, which is mainly unhappy users. A balance between quick detection and shunning of abusive individuals and groups must be found, while not excluding anyone without good reason.
 
 This covenant is based on [The Fediverse-Friendly Moderation Covenant](https://github.com/pixeldesu/fediverse-friendly-moderation-covenant).
 
