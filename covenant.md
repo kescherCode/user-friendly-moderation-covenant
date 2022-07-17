@@ -2,7 +2,7 @@
 
 ### This instance commits to the following
 
-#### 1. Administration and Moderation will be handled as neutral as possible
+#### 1. Administration and Moderation will be handled as neutrally as possible
 Reports and widespread information on specific instances (often known as **bad actors**) will be verified
 and actions will be taken as necessary.
 
