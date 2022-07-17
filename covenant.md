@@ -22,6 +22,7 @@ to inform the moderation/administration of that instance and resolve the problem
   
 #### 4. We will recommend blocks and use block recommendations responsibly
 Blocklists and block recommendations, such as those made on the in-Fediverse hashtag "FediBlock", as an information source are taken for granted, but sadly, often lack accurate verification, which has lead to wrongful blocks being made. Our moderation team will always verify claims made by reports, blocklists and block recommendations, individually, either per user and instance (as applicable). When we recommend blocks, instances that are blocked must be disruptive to the Fediverse, and we will always attach receipts to prevent wrongful blocks. **We will not recommend blocks made out of personal feuds that do not affect other users.**
+In addition, we will always provide a reason for blocks in our lists for instance blocks (media removal, silencing and suspension separately).
 
 #### 5. No Guilt-by-Federation
 If we have applied any action against Instance X, an Instance Y that federates with them will not get the same judgement applied to them automatically. However, if many users of Instance Y keep interacting with users from Instance X despite being aware of socially harmful behaviour, depending on the amount, either individual users or the instance itself will be **silenced** from timelines and notifications to prevent high amounts of broken user mentions, as well as potentially harassment itself. A full suspension for mere "not having defederated yet" would be over-moderation.
