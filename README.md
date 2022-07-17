@@ -1,8 +1,10 @@
 # The User-Friendly Moderation Covenant
 
-The Fediverse is, while already existing for a while in all kinds, rapidly growing and changing. Current-day Fediverse software can employ all kinds of moderation, improving on the lack thereof from platforms that were used before (e.g. Twitter), but features given, if used too thoroughly can also impact the integrity of the natural growth and communication of the network. However, the opposite is true as well. In particular, some instances that have adopted [The Fediverse-Friendly Moderation Covenant](https://github.com/pixeldesu/fediverse-friendly-moderation-covenant) are using it in bad faith – they are using it as a ticket to keep harassment effective. **As the Fediverse is a social network, this type of behaviour also causes damage to the network, when users are leaving due to being harassed, in spite of no wrongdoing of their own.** Therefore, this covenant, based off of [The Fediverse-Friendly Moderation Covenant](https://github.com/pixeldesu/fediverse-friendly-moderation-covenant), attempts to balance the scales more between too thorough and too lax moderation.
+The Fediverse is rapidly growing and changing. Current-day Fediverse software offers several moderation tools, improving the lack thereof from platforms used prior to it (for example, most centralized social media). A too trigger-happy use of such tools can impact the natural growth and communication of the network. That is mainly a technical challenge. However, if the tools aren't used, they lead to issues other platforms have, which is mainly unhappy users. A balance between quick detection and shunning of abusive individuals and groups must be found, while not excluding anyone without good reason. That is mainly a social challenge.
 
-This covenant isn't here to replace an instance's set of rules. It's simply an extension that administration/moderation can pledge to follow so the networks integrity and the ability of users to interact with as many people as possible is kept intact, while still stepping in if harassment occurs.
+This covenant is based on [The Fediverse-Friendly Moderation Covenant](https://github.com/pixeldesu/fediverse-friendly-moderation-covenant).
+
+This covenant isn't here to replace an instance's set of rules. It's simply an extension that moderation can pledge to follow so the networks integrity and the ability of users to interact with as many people as possible is kept intact, while still stepping in if harassment occurs.
 
 You can find the covenant in [covenant.md](covenant.md). Simply take the raw markdown or text format, adjust it to your needs and copy it in your instances rules/terms.
 
@@ -16,5 +18,5 @@ No one's listed yet. I am not exactly expecting anyone to want to be listed, but
 
 ## License
 
-The User-Friendly Moderation Covenant is licensed under [CC0](LICENSE), same as [The Fediverse-Friendly Moderation Covenant](https://github.com/pixeldesu/fediverse-friendly-moderation-covenant).
+The User-Friendly Moderation Covenant is licensed under [CC0](LICENSE), same as [The Fediverse-Friendly Moderation Covenant](https://github.com/pixeldesu/fediverse-friendly-moderation-covenant) it is based on.
 
